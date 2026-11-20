@@ -9,7 +9,7 @@ const kumbhSans = Kumbh_Sans({
 });
 
 export const metadata = {
-  title: "Heart — Non-Profit & Charity",
+  title: "iBrain — Non-Profit & Charity",
   description: "Give new hope for a better future.",
 };
 
